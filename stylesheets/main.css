@@ -1,0 +1,47 @@
+.header {
+  color: white;
+  background-color: red;
+  padding: 15px 15px 15px 15px;
+}
+
+#myHeader {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#login {
+  float: right;
+}
+
+.navigation {
+  color: white;
+  text-align: right;
+  text-decoration: underline;
+  background-color: dimgrey;
+  padding: 15px 15px 15px 15px;
+}
+
+.pics {
+  display: flex
+}
+
+.side {
+  display: flex
+  flex-direction: column;
+  padding: 25px 25px 25px 25px;
+}
+
+#museum {
+  padding: 25px 25px 25px 25px;
+}
+
+#lastHeader {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#footer {
+  color: white;
+  background-color: dimgrey;
+  padding: 15px 15px 15px 15px;
+}
